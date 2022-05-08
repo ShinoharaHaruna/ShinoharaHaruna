@@ -39,9 +39,4 @@ Here are some ideas to get you started:
 
 ## Have fun!
 
-<a href="https://github-readme-stats-one-bice.vercel.app/api?username=intMojIBakE&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=intMojIBakE&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
-</a>
-<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=intMojIBakE&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=intMojIBakE&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
-</a>
+![Cooper's GitHub stats](https://github-readme-stats.vercel.app/api?username=intMojIBakE&count_private=true)
