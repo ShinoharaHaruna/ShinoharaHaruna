@@ -4,7 +4,7 @@
 
 -   🎓 Studying software engineering at [🏫SDU](https://www.sdu.edu.cn/)
 -   💻 Skilled linux user, prefer **Debian-based Linux distributions**
--   ⌨ Mainly use Java & C++, can write in Markdown and $\LaTeX$
+-   ⌨ Mainly use Java & C++, can write in Markdown and LaTeX
 -   🔗 Check my blog @ [icooper.cc](https://icooper.cc/)
 
 ------
