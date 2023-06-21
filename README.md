@@ -19,17 +19,4 @@ Most of my jobs are to maintain the back-end project of *iSDU*.
 
 Also some other interesting tools are created.
 
-------
-
-- ★★★ Java
-- ★★☆ C++
-- ★★☆ MySQL
-- ★★☆ Spring
-- ★★☆ Html & CSS
-- ★★☆ Python
-
 ## Have fun!
-
-<a><img src="https://github-readme-stats.vercel.app/api?username=intMojIBakE&count_private=true&show_icons=true" align='left' /></a>
-
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intMojIBakE&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/></a>
