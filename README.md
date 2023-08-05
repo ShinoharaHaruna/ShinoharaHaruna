@@ -4,8 +4,8 @@
 
 -   🎓 Studying *Digital Media Technology* at [🏫SDU](https://www.sdu.edu.cn/)
 -   💻 Skilled linux user, prefer **Debian-based Linux distributions**
--   ⌨ Mainly use *Java*, can write in *Markdown* and $\LaTeX$
--   📂 Now trying to learn *Computer Graphics* & *Computer Vision*
+-   ⌨ Mainly use *Java* and *Python*, can write in *Markdown* and $\LaTeX$
+-   📂 Now trying to learn *Deep Learning* & *high availability and high concurrency backend technology*
 -   🔗 Check my blogs @ [icooper.cc](https://icooper.cc/)
 
 ## Skills
