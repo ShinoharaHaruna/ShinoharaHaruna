@@ -12,11 +12,11 @@ My name is *Theo Chu*, a university student from China.
 
 ### Experience
 
-- 👨‍💻 Backend Development Director @ [iSDU](https://www.isdu.com/)
+- 👨‍💻 Backend Development Director @ [iSDU](https://github.com/sduoffline)
     - Maintaining the backend for iSDU, a student services platform for Shandong University
         - Built with Spring Cloud, Nacos, OpenFeign and Ribbon. Handles 10k+ daily requests
         - Implemented distributed locking and transactions using Redis and MQ
-- 🧑‍🏫 Research Assistant @ WeiLab, Shandong University
+- 🧑‍🏫 Research Assistant @ [WeiLab](), Shandong University
 
 Also some other interesting tools are created.
 
