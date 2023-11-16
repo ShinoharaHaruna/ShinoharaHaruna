@@ -1,22 +1,26 @@
-# Aloha! 👋 It's Cooper here.
+# Aloha! 👋
 
-## Introduction
+### Introduction
 
--   🎓 Studying *Digital Media Technology* at [🏫SDU](https://www.sdu.edu.cn/)
--   💻 Skilled linux user, prefer **Debian-based Linux distributions**
+My name is *Theo Chu*, a university student from China.
+
+-   🎓 Studying *Digital Media Technology* at [🏫Shandong University](https://www.sdu.edu.cn/)
+-   💻 Skilled linux user
 -   ⌨ Mainly use *Java* and *Python*, can write in *Markdown* and $\LaTeX$
--   📂 Now trying to learn *Deep Learning* & *high availability and high concurrency backend technology*
+-   🔬 Interested in deep learning and backend development
 -   🔗 Check my blogs @ [icooper.cc](https://icooper.cc/)
 
-## Skills
+### Experience
 
-Most of my jobs are to maintain the back-end project of *iSDU*.
-
--   A student services platform independently developed by *Student Online*
--   With 10k+ daily activity, the main functions of which are checking class schedule, study rooms, library inquiry and so on
--   Using *Spring Cloud*, *Nacos*, *OpenFeign* and *Ribbon*
--   Using *Redis*
+- 👨‍💻 Backend Development Director @ [iSDU](https://www.isdu.com/)
+    - Maintaining the backend for iSDU, a student services platform for Shandong University
+        - Built with Spring Cloud, Nacos, OpenFeign and Ribbon. Handles 10k+ daily requests
+        - Implemented distributed locking and transactions using Redis and MQ
+- 🧑‍🏫 Research Assistant @ WeiLab, Shandong University
 
 Also some other interesting tools are created.
 
-## Have fun!
+### Contact Me
+
+-   Twitter: [@shinoharaharuna](https://twitter.com/shinoharaharuna)
+-   Email: zhuzy[at]mail.sdu.edu.cn
