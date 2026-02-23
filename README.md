@@ -32,24 +32,11 @@ I'm Theo, a university student from China with a passion for deep learning and b
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ShinoharaHaruna">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShinoharaHaruna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Theo's GitHub Stats" />
-  </a>
-  <a href="https://github.com/ShinoharaHaruna">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinoharaHaruna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Theo's Top Languages" />
-  </a>
-</p>
-
----
-
 ### 💼 Experience
 
 - **Backend Development Director** @ [iSDU](https://github.com/sduoffline/)
   - Maintained the backend for iSDU, a student services platform for Shandong University.
-  - *Tech used: Spring Cloud, Nacos, OpenFeign, Ribbon, Redis, MQ.*
+  - *Tech used: Spring Cloud, Nacos, OpenFeign, Ribbon, Redis, MQ*.
 
 - **Research Assistant** @ [WeiLab](https://wei-group.net/), Shandong University (2 years) and CUHK (current)
 
